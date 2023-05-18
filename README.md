@@ -1,6 +1,9 @@
 # Uroboros
 Everscale Blockchain Killer
 
+## Disclamer
+No warranty, no support, no evil intent. Use at your own risk. You have been warned.
+
 ## Usage: 
 1. Compute Uroboros address (use random nonce variable to deploy multiple Uroboroses using one owner)
 2. Send 400+ EVER to the address
